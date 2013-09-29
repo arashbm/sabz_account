@@ -1,0 +1,10 @@
+fa:
+  devise:
+    sign_in: ورود
+    sign_in_html: <i class="icon-lock"></i> ورود
+    sign_up: ثبت نام
+    sign_up_html: <i class="icon-book"></i> ثبت نام
+    sign_out: خروج
+    sign_out_html: <i class="icon-off"></i> خروج
+    forgot_password: رمز عبورتان را فراموش کرده‌اید؟
+    reset_password: بازنشانی رمز عبور
